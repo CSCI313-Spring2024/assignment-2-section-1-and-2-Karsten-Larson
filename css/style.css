@@ -1,0 +1,32 @@
+
+.img-square {
+    aspect-ratio: 1/1;
+}
+
+.spacer {
+    margin: 0px auto;
+}
+
+.container {
+    margin: 12px 0px;
+}
+
+ul > li {
+    font-style: bold;
+}
+
+.action {
+    color: violet;
+}
+
+.comedy {
+    color: green;
+}
+
+.kids {
+    color: coral;
+}
+
+h2 {
+    text-align: center;
+}
